@@ -1,4 +1,4 @@
-# Hello World!, I'm Howard Hieu, a Fontend Web Developer 👋🏼:
+# ![[my-profile.svg]]Hello World!, I'm Howard Hieu, a Fontend Web Developer 👋🏼:
 
 👨🏼‍💻 working as a web developer since 2021
 
