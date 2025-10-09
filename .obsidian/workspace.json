@@ -11,14 +11,10 @@
             "id": "51f392fb0973dd87",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "README"
+              "title": "Tab mới"
             }
           }
         ]
@@ -233,8 +229,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "51f392fb0973dd87",
+  "active": "42af4f1ef891900d",
   "lastOpenFiles": [
+    "profile-summary-card-output/2077/4-productive-time.svg",
+    "profile-summary-card-output/2077/2-most-commit-language.svg",
+    "profile-summary-card-output/2077/1-repos-per-language.svg",
+    "profile-summary-card-output/2077/0-profile-details.svg",
+    "README.md",
     "profile-summary-card-output/zenburn/README.md",
     "profile-summary-card-output/zenburn/4-productive-time.svg",
     "profile-summary-card-output/zenburn/3-stats.svg",
@@ -245,9 +246,6 @@
     "profile-summary-card-output/yeblu/README.md",
     "profile-summary-card-output/yeblu/4-productive-time.svg",
     "profile-summary-card-output/yeblu/3-stats.svg",
-    "profile-summary-card-output/yeblu/2-most-commit-language.svg",
-    "profile-summary-card-output/yeblu/1-repos-per-language.svg",
-    "profile-summary-card-output/yeblu/0-profile-details.svg",
     "profile-summary-card-output/yeblu",
     "profile-summary-card-output/vue/README.md",
     "profile-summary-card-output/vue",
@@ -279,8 +277,6 @@
     "profile-summary-card-output/nord_dark/README.md",
     "profile-summary-card-output/nord_bright/README.md",
     "profile-summary-card-output/moltack/README.md",
-    "profile-summary-card-output/noctis_minimus/README.md",
-    "profile-summary-card-output/nightowl/README.md",
     "Business/Journal/Technical/Migrated/Mind Map.canvas",
     "Journal/Technical/Migrated/Mind Map.canvas",
     "Technical/Migrated/Mind Map.canvas"
