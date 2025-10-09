@@ -5,9 +5,9 @@
 
   <!-- Social Badges -->
   <p>
-    <a href="https://www.linkedin.com/in/hoanghieund/">
+    <!-- <a href="https://www.linkedin.com/in/hoanghieund/">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-    </a>
+    </a> -->
     <a href="https://www.facebook.com/hoanghieund/">
       <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook">
     </a>
