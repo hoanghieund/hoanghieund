@@ -11,10 +11,14 @@
             "id": "51f392fb0973dd87",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "Tab mới"
+              "title": "README"
             }
           }
         ]
@@ -229,8 +233,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "42af4f1ef891900d",
+  "active": "51f392fb0973dd87",
   "lastOpenFiles": [
+    "profile-summary-card-output/2077/README.md",
     "profile-summary-card-output/2077/4-productive-time.svg",
     "profile-summary-card-output/2077/2-most-commit-language.svg",
     "profile-summary-card-output/2077/1-repos-per-language.svg",
@@ -245,7 +250,6 @@
     "profile-summary-card-output/zenburn",
     "profile-summary-card-output/yeblu/README.md",
     "profile-summary-card-output/yeblu/4-productive-time.svg",
-    "profile-summary-card-output/yeblu/3-stats.svg",
     "profile-summary-card-output/yeblu",
     "profile-summary-card-output/vue/README.md",
     "profile-summary-card-output/vue",
