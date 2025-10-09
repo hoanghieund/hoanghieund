@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "2c2170810f5e1ec1",
+        "id": "1ecbdb3a67cc7ecd",
         "type": "tabs",
         "children": [
           {
-            "id": "48518ca0f6543124",
+            "id": "51f392fb0973dd87",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -215,8 +215,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 327.5,
-    "collapsed": true
+    "width": 327.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -234,11 +233,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "48518ca0f6543124",
+  "active": "51f392fb0973dd87",
   "lastOpenFiles": [
     "devcard.svg",
-    "README.md",
     "svg/my-profile.svg",
+    "README.md",
     "hoanghieund/devcard.svg",
     "JS nâng cao/IIFE.md",
     "hoanghieund/svg/my-profile.svg",
